@@ -1,0 +1,18 @@
+{"timestamp": "2026-10-02T16:14:03.871801+00:00", "event_type": "retrieval", "success": true, "latency_seconds": 0.06467419996624812, "similarity_score": 0.003843197540353574, "confidence_score": 0.003843197540353574}
+{"timestamp": "2026-10-02T16:14:03.874272+00:00", "event_type": "fallback", "confidence_score": 0.003843197540353574, "reason": "confidence below threshold"}
+{"timestamp": "2026-10-02T16:14:03.875930+00:00", "event_type": "human_escalation", "confidence_score": 0.003843197540353574, "reason": "confidence below threshold"}
+{"timestamp": "2026-10-02T16:14:12.928386+00:00", "event_type": "retrieval", "success": true, "latency_seconds": 0.06776390003506094, "similarity_score": 0.003843197540353574, "confidence_score": 0.003843197540353574}
+{"timestamp": "2026-10-02T16:14:12.931643+00:00", "event_type": "fallback", "confidence_score": 0.003843197540353574, "reason": "confidence below threshold"}
+{"timestamp": "2026-10-02T16:14:12.934017+00:00", "event_type": "human_escalation", "confidence_score": 0.003843197540353574, "reason": "confidence below threshold"}
+{"timestamp": "2026-10-02T16:26:34.012447+00:00", "event_type": "retrieval", "success": true, "latency_seconds": 0.054660100024193525, "similarity_score": 0.003843197540353574, "confidence_score": 0.003843197540353574}
+{"timestamp": "2026-10-02T16:26:34.014981+00:00", "event_type": "fallback", "confidence_score": 0.003843197540353574, "reason": "confidence below threshold"}
+{"timestamp": "2026-10-02T16:26:34.015825+00:00", "event_type": "human_escalation", "confidence_score": 0.003843197540353574, "reason": "confidence below threshold"}
+{"timestamp": "2026-10-02T16:28:31.914464+00:00", "event_type": "retrieval", "success": true, "latency_seconds": 0.054628900019451976, "similarity_score": 0.0, "confidence_score": 0.0}
+{"timestamp": "2026-10-02T16:28:31.916039+00:00", "event_type": "fallback", "confidence_score": 0.0, "reason": "confidence below threshold"}
+{"timestamp": "2026-10-02T16:28:31.917020+00:00", "event_type": "human_escalation", "confidence_score": 0.0, "reason": "confidence below threshold"}
+{"timestamp": "2026-10-02T16:28:50.508029+00:00", "event_type": "retrieval", "success": true, "latency_seconds": 0.0591246000258252, "similarity_score": 0.003843197540353574, "confidence_score": 0.003843197540353574}
+{"timestamp": "2026-10-02T16:28:50.509137+00:00", "event_type": "fallback", "confidence_score": 0.003843197540353574, "reason": "confidence below threshold"}
+{"timestamp": "2026-10-02T16:28:50.509880+00:00", "event_type": "human_escalation", "confidence_score": 0.003843197540353574, "reason": "confidence below threshold"}
+{"timestamp": "2026-10-02T16:43:41.616949+00:00", "event_type": "retrieval", "success": true, "latency_seconds": 0.0105356999556534, "similarity_score": 0.003843197540353574, "confidence_score": 0.003843197540353574}
+{"timestamp": "2026-10-02T16:43:41.617931+00:00", "event_type": "fallback", "confidence_score": 0.003843197540353574, "reason": "confidence below threshold"}
+{"timestamp": "2026-10-02T16:43:41.618867+00:00", "event_type": "human_escalation", "confidence_score": 0.003843197540353574, "reason": "confidence below threshold"}
